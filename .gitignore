@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+*.mp4
+*.mp3
+*.webm
+downloads/
+.env
+.vscode/
+*.history
